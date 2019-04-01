@@ -1,0 +1,7 @@
+E:\CIT 110\Week 11\Github trial\Github trial\bin\Debug\Github trial.exe.config
+E:\CIT 110\Week 11\Github trial\Github trial\bin\Debug\Github trial.exe
+E:\CIT 110\Week 11\Github trial\Github trial\bin\Debug\Github trial.pdb
+E:\CIT 110\Week 11\Github trial\Github trial\obj\Debug\Github trial.csprojResolveAssemblyReference.cache
+E:\CIT 110\Week 11\Github trial\Github trial\obj\Debug\Github trial.csproj.CoreCompileInputs.cache
+E:\CIT 110\Week 11\Github trial\Github trial\obj\Debug\Github trial.exe
+E:\CIT 110\Week 11\Github trial\Github trial\obj\Debug\Github trial.pdb
